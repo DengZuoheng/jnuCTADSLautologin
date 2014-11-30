@@ -1,15 +1,15 @@
-Ê¹ÓÃ·½·¨:
-1. chrome°²×°TempermonkeyÀ©Õ¹,firefox°²×°GreasemonkeyÀ©Õ¹
+ä½¿ç”¨æ–¹æ³•:
+1. chromeå®‰è£…Tempermonkeyæ‰©å±•,firefoxå®‰è£…Greasemonkeyæ‰©å±•
 2. Tempermonkey
-    + ´ò¿ªÒÇ±íÅÌ,ÐÂ½¨½Å±¾
-    + Õ³ÌùUserScript.jsÄÚÈÝ
-    + ½«ÓÃ»§ÃûºÍÃÜÂëÌæ»»³ÉÄãµÄÓÃ»§ÃûºÍÃÜÂë
-    + ±£´æ
-    + °ÎÍøÏß,²âÊÔ
+    + æ‰“å¼€ä»ªè¡¨ç›˜,æ–°å»ºè„šæœ¬
+    + ç²˜è´´UserScript.jså†…å®¹
+    + å°†ç”¨æˆ·åå’Œå¯†ç æ›¿æ¢æˆä½ çš„ç”¨æˆ·åå’Œå¯†ç 
+    + ä¿å­˜
+    + æ‹”ç½‘çº¿,æµ‹è¯•
 3. Greasemonkey
-    + ÏÈ¸´ÖÆUserScript.jsÄÚÈÝ
-    + ÐÂ½¨ÓÃ»§½Å±¾
-    + Ñ¡Ôñ"Ê¹ÓÃ¼ôÌù°åÖÐµÄ½Å±¾"
-    + ½«ÓÃ»§ÃûºÍÃÜÂëÌæ»»³ÉÄãµÄÓÃ»§ÃûºÍÃÜÂë
-    + ±£´æ
-    + °ÎÍøÏß,²âÊÔ
+    + å…ˆå¤åˆ¶UserScript.jså†…å®¹
+    + æ–°å»ºç”¨æˆ·è„šæœ¬
+    + é€‰æ‹©"ä½¿ç”¨å‰ªè´´æ¿ä¸­çš„è„šæœ¬"
+    + å°†ç”¨æˆ·åå’Œå¯†ç æ›¿æ¢æˆä½ çš„ç”¨æˆ·åå’Œå¯†ç 
+    + ä¿å­˜
+    + æ‹”ç½‘çº¿,æµ‹è¯•
