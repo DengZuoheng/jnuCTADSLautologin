@@ -2,8 +2,9 @@
 
 
 ##使用方法##
-1. userscript
+1. userscript  
 chrome使用tempermonkey新建用户脚本,粘贴userscript.js内容,并将用户名和密码改成你的用户名和密码;firefox使用creasemonkey.
+如果开机没有自动启动浏览器,可将浏览器加入开机启动, chrome用户运行UserScript\Reg\chrome_start_up.reg, firefox用户运行UserScript\Reg\firefox_start_up.reg, 会产生一个名为adsl_auto_login的开机项,如果要删掉,可运行UserScript\Reg\delete_start_up.reg
 
 ##实现##
 1. userscript
