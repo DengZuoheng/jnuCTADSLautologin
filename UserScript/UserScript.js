@@ -18,6 +18,7 @@ var upw = "你的密码";
         document.getElementById("userName1").value=uid;
         document.getElementById("password1").value=upw;
         document.getElementById("rand").value=document.getElementById("confirmrand").value;
+        document.getElementById("checkbox").checked = true;
         document.getElementById("login1").submit();
     }catch(e){
         console.log(e);
