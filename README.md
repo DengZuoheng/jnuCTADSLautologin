@@ -10,3 +10,4 @@ chrome使用tempermonkey新建用户脚本,粘贴userscript.js内容,并将用�
 1. userscript
 一般开机登陆的话,可使用userscript自动填充并提交的方式,实际上验证码是在js中随机4个整数然后才请求的图片,而且随机出来的结果放在了一个hidden的input标签里,所以是很容易获取的.
 
+**16年4月份验证码机制变更, python版本暂不可用**
