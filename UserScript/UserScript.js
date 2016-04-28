@@ -10,8 +10,8 @@
 // @grant              GM_xmlhttpRequest
 // ==/UserScript==
 
-var uid = "2012052207";
-var upw = "08210739";
+var uid = "你的账号";
+var upw = "你的密码";
 
 function decaptcha(imgid, callback){
     var image = document.querySelector("img#"+imgid);//如果要用在greasemonkey脚本里,可以把下面的代码放在image的onload事件里
